@@ -1,8 +1,7 @@
 # Playing the game 
-#   
 
-from ps9pr1 import Board
-from ps9pr2 import Player
+from connect_four_folder import Board
+from connect_four_folder import Player
 import random
 
 class RandomPlayer(Player):
